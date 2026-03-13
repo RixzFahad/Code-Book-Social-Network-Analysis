@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Network Recommendation System
 
 ## Project Overview
@@ -280,3 +281,6 @@ If asked to explain this project, you can say:
 ## Conclusion
 
 This project combines **recommendation logic**, **data cleaning**, and **social network analysis** in a simple but strong Python project. It is useful for showcasing Python fundamentals, data handling, and real-world analytical thinking.
+=======
+# Code-Book-Social-Network-Analysis
+>>>>>>> d0d1c711f7da9d5a556ed3c89264fde631b54c5b
