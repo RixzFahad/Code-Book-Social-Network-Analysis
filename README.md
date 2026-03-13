@@ -97,20 +97,8 @@ User Likes → Compare with Others → Set Intersection → Score → Recommend
 
 ---
 
-## ⚠️ Limitations & 🔮 Future Scope
 
-**Current Limits:**
-- Static JSON only · No UI · No weighted scoring
 
-**Planned Improvements:**
-- 📊 NetworkX graph visualization
-- 🌐 Flask / Streamlit web app
-- 🗄️ SQL / MongoDB integration
-- 📈 Score display for mutual friends
-
----
-
-## 🎤 One-Line Interview Answer
 
 > *"Built a Python recommendation system using mutual friend analysis and collaborative filtering on JSON data, with a data cleaning pipeline — mimicking how real social platforms suggest connections and content."*
 
